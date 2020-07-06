@@ -1,6 +1,6 @@
 # wifi.hack
 
-
+`apt update && apt upgrade` 
 
 `apt install git `
 
